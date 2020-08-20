@@ -7,7 +7,7 @@ tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
 The repository contains a simple Java application which outputs the string
 "Hello world!" and is accompanied by a couple of unit tests to check that thesjj
 main application works as expected. The results of these tests aredsd saved to asd
-JUnit XML report.
+JUnit XML report.oo
 dsdk
 The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Psdipeline) s
 you'll be creating yourself during the tutorial and the `scripts` susbdirecto,,rymlsx
