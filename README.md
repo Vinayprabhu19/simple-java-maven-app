@@ -9,7 +9,7 @@ The repository contains a simple Java application which outputs the string
 main application works as expected. The results of these tests aredsd saved to asd
 JUnit XML report.oo
 dsdk
-The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Psdipeline) s
+The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Psdipelinedf) s
 you'll be creating yourself during the tutorial and the `scripts` susbdirecto,,rymlsx
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.zx
