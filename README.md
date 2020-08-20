@@ -10,6 +10,6 @@ main application works as expected. The results of these tests aredsd saved to a
 JUnit XML report.
 d
 The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Psdipeline) s
-you'll be creating yourself during the tutorial and the `scripts` subdirectoryml
+you'll be creating yourself during the tutorial and the `scripts` subdirecto,,ryml
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
