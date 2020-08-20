@@ -8,8 +8,8 @@ The repository contains a simple Java application which outputs the string
 "Hello world!" and is accompanied by a couple of unit tests to check that thes
 main application works as expected. The results of these tests aredsd saved to a
 JUnit XML report.
-d
+dsd
 The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Psdipeline) s
-you'll be creating yourself during the tutorial and the `scripts` subdirecto,,ryml
+you'll be creating yourself during the tutorial and the `scripts` susbdirecto,,ryml
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
