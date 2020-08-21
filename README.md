@@ -5,7 +5,7 @@ This repository is for the
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
 
 The repository contains a simple Java application which outputs the string f
-zx
+zxx
 "Hello world!" and is accompanied by a couple of unit tests to check that thesjj
 main application works as expected. The results of these tests aredsd saved to asd ksd
 JUnit XML report.oodssd
